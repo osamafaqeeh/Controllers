@@ -1,0 +1,3 @@
+com\osama\regestration\Controller\LoginController.class
+com\osama\regestration\Controller\RegisterController.class
+com\osama\regestration\Controller\AuthenticationController.class
